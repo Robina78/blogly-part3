@@ -1,0 +1,15 @@
+.success {
+    width: 300px;    
+    border: 1px solid aquamarine;
+    background-color: rgb(32, 179, 105);
+    color:white;
+    text-align: center;
+}
+
+.danger {
+    width: 300px;    
+    border: 1px solid red;
+    background-color: red;
+    color: azure;
+    text-align: center;
+}
